@@ -1,0 +1,21 @@
+{
+  "ClientId": 377101144788434945,
+  "Token": "Mzc3MTAxMTQ0Nzg4NDM0OTQ1.DVCwVw.lLnTVxOoZLg75PpzIlwCzY8JZHI",
+  "OwnerIds": [
+    301462769415356417,
+    208535158494593024
+  ],
+  "LoLApiKey": "RGAPI-2cba32d6-ec7e-4ecd-bccf-057062145535",
+  "GoogleApiKey": "",
+  "MashapeKey": "",
+  "OsuApiKey": "613f590633325dc2cb78ee042eb1a0a08f3ae07d",
+  "CleverbotApiKey": "",
+  "PatreonAccessToken": "",
+  "PatreonCampaignId": "",
+  "Db": null,
+  "TotalShards": 1,
+  "ShardRunCommand": "",
+  "ShardRunArguments": "",
+  "ShardRunPort": null,
+  "RestartCommand": null
+}
